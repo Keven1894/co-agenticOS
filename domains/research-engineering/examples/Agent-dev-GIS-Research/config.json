@@ -1,0 +1,54 @@
+{
+  "rules": [
+    "rules/*.md"
+  ],
+  "ignore": [
+    "logs/",
+    "venv/",
+    "__pycache__/",
+    "node_modules/",
+    ".git/",
+    "*.pyc",
+    "*.pyo",
+    "*.pyd",
+    ".env",
+    ".DS_Store",
+    "Thumbs.db"
+  ],
+  "context": {
+    "max_files": 50,
+    "max_tokens": 100000,
+    "include_patterns": [
+      "*.md",
+      "*.py",
+      "*.ts",
+      "*.tsx",
+      "*.js",
+      "*.jsx",
+      "*.json",
+      "*.sql",
+      "*.yaml",
+      "*.yml"
+    ],
+    "exclude_patterns": [
+      "*.log",
+      "*.tmp",
+      "*.cache",
+      "dist/",
+      "build/",
+      "coverage/"
+    ]
+  },
+  "rules_priority": {
+    "system_behavior.md": "highest",
+    "development_workflow.md": "high",
+    "code_standards.md": "high",
+    "project_management.md": "high",
+    "documentation_standards.md": "high",
+    "model_selection_strategy.md": "high",
+    "environment_tools_checklist.md": "critical"
+  },
+  "auto_load": true,
+  "version": "1.0.0",
+  "description": "FIU GIS Agent Platform - Cursor AI Rules Configuration"
+}
