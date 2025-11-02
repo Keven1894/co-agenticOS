@@ -241,12 +241,21 @@ Study how patterns transfer across domains:
 
 ---
 
-## 📜 License
+## 📜 License & Citation
 
 MIT License — open and remixable.  
-If you use or adapt co-agenticOS in your org, please credit:
 
-*"Based on co-agenticOS: The Culture of AI-Involved Software Engineering"*
+**If you use or adapt co-agenticOS**, please credit:
+*"Based on co-agenticOS: The Culture of AI-Involved Software Engineering by Boyuan (Keven) Guan (2025)"*
+
+**For academic papers, presentations, or articles**, see [CITATION.md](CITATION.md) for proper citation formats.
+
+### Quick Citation (APA)
+```
+Guan, B. K. (2025). co-agenticOS: The Culture of AI-Involved Software Engineering 
+    (Version 1.0.0) [Software framework]. GitHub. 
+    https://github.com/Keven1894/co-agenticOS
+```
 
 ---
 
@@ -261,6 +270,7 @@ If you use or adapt co-agenticOS in your org, please credit:
 - [Roadmap](docs/roadmap.md) - Future vision and development plans
 - [Project Evolution](docs/project-evolution.md) - The story of how co-agenticOS came to be
 - [Contributors](docs/contributors.md) - Recognition of all contributors
+- [Citation Guide](CITATION.md) - How to cite co-agenticOS in academic and professional work
 
 ---
 
