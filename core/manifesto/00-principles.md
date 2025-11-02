@@ -3,7 +3,8 @@
 
 **Created by:** Boyuan (Keven) Guan  
 **Contact:** keven1894@gmail.com | [LinkedIn](https://www.linkedin.com/in/boyuan-keven-guan/)  
-**Version:** 1.0.0 | **Date:** November 2025
+**Version:** 1.1.0 | **Date:** November 2025  
+**Update**: Added Principle 7 - Decentralized Self-Regulation
 
 ---
 
@@ -38,6 +39,51 @@ Therefore, shaping co-agenticOS is shaping ourselves.
 
 ---
 
+## 7. Decentralized Self-Regulation Over Top-Down Control
+AI governance cannot wait for global regulations to trickle down through bureaucracies.  
+By the time top-down policies reach implementation, technology has evolved beyond recognition.  
+
+**We believe in bottom-up self-regulation:**
+- Every practitioner defines and follows ethical rules
+- Communities converge on shared standards organically
+- Decentralized rule-making adapts faster than centralized policy
+- Individual accountability is the foundation of collective safety
+
+**The Reality:**
+Top-down AI regulation (UN declarations, national policies) faces insurmountable challenges:
+- **Implementation lag**: Years from declaration to enforcement
+- **Technology pace**: AI evolves faster than policy cycles
+- **Global coordination**: Impossible to achieve uniform global standards
+- **Enforcement gap**: No mechanism to enforce across jurisdictions
+
+**Our Response:**
+Instead of waiting for external control, we practice **self-imposed discipline**:
+- Define our own rules for AI collaboration
+- Share and standardize these rules across communities
+- Hold ourselves accountable to transparent practices
+- Build culture that prevents AI misuse from within
+
+**The co-agenticOS Approach:**
+- **Every rule is a commitment** - Practitioners commit to ethical AI use
+- **Every example is a standard** - Real implementations set community norms
+- **Every contribution is governance** - Decentralized rule evolution
+- **Every commit is accountability** - Transparent, traceable actions
+
+> "In the absence of effective top-down regulation, bottom-up self-regulation  
+>  through shared cultural norms is our best defense against AI risks."
+
+---
+
+### Guiding Question
+> "What if software engineering were as much about cultivating shared intelligence  
+>  as it is about shipping features?"
+
+---
+
 ### Our Commitment
 We practice openness, traceability, and empathy —  
 because in the co-agentic era, every commit is also a cultural act.
+
+We commit to **self-regulation through shared culture**,  
+because decentralized ethical practice is more effective than waiting for  
+centralized control that arrives too late.

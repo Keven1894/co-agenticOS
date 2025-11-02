@@ -84,9 +84,14 @@ Yet most engineering practices, from Agile to DevOps, were designed for human-on
 3. **Continuous Reflection**  
    Every iteration includes documentation, reasoning, and summary.  
 4. **Culture-Driven Development**  
-   The most sustainable system is one that nurtures shared values and rituals.
+   The most sustainable system is one that nurtures shared values and rituals.  
+5. **Decentralized Self-Regulation over Top-Down Control**  
+   Bottom-up ethical practice through shared cultural norms is more effective than waiting for centralized regulation that arrives too late.
 
-See [`core/manifesto/00-principles.md`](core/manifesto/00-principles.md) for the full cultural manifesto and philosophical foundation.
+> "In the absence of effective top-down regulation, bottom-up self-regulation  
+>  through shared cultural norms is our best defense against AI risks."
+
+See [`core/manifesto/00-principles.md`](core/manifesto/00-principles.md) for the complete cultural manifesto and philosophical foundation.
 
 ---
 
