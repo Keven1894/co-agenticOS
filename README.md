@@ -14,15 +14,51 @@ It defines the culture, workflows, and shared rituals that allow engineers and a
 **co-agenticOS is not a codebase.**  
 It's a **Rule & Template Framework** — you import its structure into your own repo to build your AI collaboration culture.
 
-### How to Use co-agenticOS
+### 🤖 AI Agent-Friendly Repository
 
+This repository is designed to be **equally accessible to both human engineers and AI agents**. Contributions can come from:
+- 👤 **Human Contributors** - Engineers, researchers, and practitioners
+- 🤖 **AI Agents** - Cursor, Claude, GPT, and other AI coding assistants
+- 🤝 **Human-AI Pairs** - Collaborative contributions following co-agenticOS principles
+
+### Quick Start for Different Users
+
+#### For Human Contributors
 ```bash
-# Initialize a new project's rule system
-curl -O https://raw.githubusercontent.com/your-org/co-agenticOS/main/templates/rule-template.md
+# Clone and explore the repository
+git clone https://github.com/Keven1894/co-agenticOS.git
+cd co-agenticOS
 
-# Then create your domain-specific rules:
+# Study the reference implementation
+cat domains/research-engineering/examples/Agent-dev-GIS-Research/README.md
+
+# Use templates for your own projects
+cp templates/rule-template.md your-project/rules/your-rule.md
+```
+
+#### For AI Agents (Cursor, Claude, etc.)
+```bash
+# When opening this project in Cursor:
+# 1. Cursor automatically loads rules from .cursor/rules/
+# 2. Follow system_behavior.md for project identity
+# 3. Follow language_standards.md for English-only requirement
+# 4. Follow content_standards.md for quality guidelines
+# 5. Follow contribution_workflow.md for submitting changes
+
+# Quick reference:
+cat .cursor/README.md
+```
+
+#### For Human-AI Collaboration
+```bash
+# Initialize a new project with co-agenticOS patterns
+curl -O https://raw.githubusercontent.com/Keven1894/co-agenticOS/main/templates/rule-template.md
+
+# Create your domain-specific rules
 mkdir -p rules/domains/research-engineering
 cp templates/rule-template.md rules/domains/research-engineering/data-processing.md
+
+# AI agents will follow .cursor/ rules when contributing
 ```
 
 ---
@@ -78,8 +114,10 @@ co-agenticOS/
 └── examples/                     ← Real-world demonstrations
     ├── cross-domain-workflow-integration.md ← Cross-domain pattern application
     └── domains/                   ← Domain-specific examples
-        └── research-engineering/
-            └── Agent-dev-GIS-Research/ ← Complete reference implementation
+        ├── research-engineering/
+        │   └── Agent-dev-GIS-Research/ ← Complete GIS platform example
+        └── financial-analysis/
+            └── Personal-Tax-Assistant/ ← Complete tax processing example
 ```
 
 ---
@@ -148,7 +186,8 @@ Select rules that match your project type:
 - `domains/software-development/` - Frontend, backend, and DevOps rules
 
 **For Financial Analysis:**
-- `domains/financial-analysis/` - Risk assessment and data validation rules
+- `domains/financial-analysis/tax-data-processing.md` - Tax data processing with AI assistance
+- `domains/financial-analysis/examples/Personal-Tax-Assistant/` - Complete tax assistant example
 
 ### Step 4: Use Templates
 Copy and customize templates for your project:
@@ -180,13 +219,17 @@ Study how patterns transfer across domains:
 
 ### For Individual Developers
 1. **Browse Core Rules**: Start with `core/manifesto/00-principles.md`
-2. **Study GIS Example**: Explore `domains/research-engineering/examples/Agent-dev-GIS-Research/`
+2. **Study Reference Examples**: 
+   - GIS Platform: `domains/research-engineering/examples/Agent-dev-GIS-Research/`
+   - Tax Assistant: `domains/financial-analysis/examples/Personal-Tax-Assistant/`
 3. **Choose Domain**: Select relevant rules from `domains/`
 4. **Use Templates**: Copy templates from `templates/`
 
 ### For Teams
 1. **Review Core Principles**: Go through `core/workflow/agentic-development-loop.md`
-2. **Study Reference Implementation**: Analyze the GIS platform example
+2. **Study Reference Implementations**: 
+   - Research projects: GIS platform example
+   - Financial projects: Personal Tax Assistant example
 3. **Establish Domain Rules**: Create team-specific rules using templates
 4. **Implement Workflows**: Use the agentic development loop
 
@@ -209,11 +252,15 @@ If you use or adapt co-agenticOS in your org, please credit:
 
 ## 🌐 Learn More
 
-- [Core Manifesto](core/manifesto/00-principles.md) - Cultural foundation
-- [Reference Implementation](domains/research-engineering/examples/Agent-dev-GIS-Research/) - Complete GIS platform example
+- [Core Manifesto](core/manifesto/00-principles.md) - Cultural foundation and principles
+- [GIS Platform Example](domains/research-engineering/examples/Agent-dev-GIS-Research/) - Research engineering reference
+- [Tax Assistant Example](domains/financial-analysis/examples/Personal-Tax-Assistant/) - Financial analysis reference  
 - [Cross-Domain Patterns](examples/cross-domain-workflow-integration.md) - Pattern transferability
 - [Domain Rules](domains/) - Domain-specific implementations
 - [Rule Templates](templates/) - Structural scaffolds
+- [Roadmap](docs/roadmap.md) - Future vision and development plans
+- [Project Evolution](docs/project-evolution.md) - The story of how co-agenticOS came to be
+- [Contributors](docs/contributors.md) - Recognition of all contributors
 
 ---
 

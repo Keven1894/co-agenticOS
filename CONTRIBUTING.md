@@ -8,6 +8,34 @@ We welcome contributions from the community! This document provides guidelines f
 **co-agenticOS is NOT a codebase.**  
 It's a **Rule & Template Framework** — a collection of reusable human–AI collaboration behavior patterns, templates, and examples that teams can import into their own projects to build AI collaboration culture.
 
+## 🤖 AI Agent-Friendly Contributions
+
+### Who Can Contribute?
+- 👤 **Human Contributors** - Engineers, researchers, and practitioners
+- 🤖 **AI Agents** - Cursor, Claude, GPT, and other AI coding assistants
+- 🤝 **Human-AI Pairs** - Collaborative contributions (recommended approach)
+
+### For AI Agents (Cursor, Claude, etc.)
+When contributing to this repository:
+1. **Auto-load rules** - Cursor automatically loads `.cursor/rules/` directory
+2. **Follow system behavior** - Read `.cursor/rules/system_behavior.md` for project identity
+3. **English-only** - Follow `.cursor/rules/language_standards.md` strictly
+4. **Quality standards** - Apply `.cursor/rules/content_standards.md` guidelines
+5. **Development workflow** - Follow `.cursor/rules/rule_development_workflow.md` process
+6. **Contribution process** - Follow `.cursor/rules/contribution_workflow.md` steps
+
+**Quick Start for AI Agents**:
+```bash
+# Read the AI-specific quick reference
+cat .cursor/README.md
+
+# Understand project identity and requirements
+cat .cursor/rules/system_behavior.md
+
+# Ensure all output is in English
+cat .cursor/rules/language_standards.md
+```
+
 ## Types of Contributions
 
 ### 1. Domain Rules (Instance Rules)

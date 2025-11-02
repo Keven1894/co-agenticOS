@@ -15,6 +15,12 @@ Boyuan (Keven) Guan is a software engineer and AI collaboration researcher who b
 ### Vision
 Keven's vision is to create a world where AI agents are true collaborators rather than mere tools, where software development becomes a continuous dialogue between human creativity and artificial intelligence, and where culture becomes the foundation for technical excellence.
 
+**co-agenticOS embodies this vision** by being:
+- 🤖 **AI Agent-Friendly** - Designed for both human and AI contributors
+- 🤝 **Collaboration-First** - Human-AI pairs working together seamlessly
+- 🌍 **Globally Accessible** - English-only documentation for worldwide use
+- 📚 **Knowledge-Driven** - A living repository of AI collaboration patterns
+
 ### Philosophy
 > "Culture is the new compiler. The quality of software is determined not just by the code we write, but by the culture of collaboration we create."
 

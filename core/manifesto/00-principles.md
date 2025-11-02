@@ -3,7 +3,7 @@
 
 **Created by:** Boyuan (Keven) Guan  
 **Contact:** keven1894@gmail.com | [LinkedIn](https://www.linkedin.com/in/boyuan-keven-guan/)  
-**Version:** 1.0.0 | **Date:** 2024
+**Version:** 1.0.0 | **Date:** November 2025
 
 ---
 

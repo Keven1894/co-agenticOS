@@ -1,0 +1,52 @@
+{
+  "rules": [
+    "rules/*.md"
+  ],
+  "ignore": [
+    "RAW/",
+    ".venv/",
+    "__pycache__/",
+    ".git/",
+    "*.pyc",
+    "*.pyo",
+    "*.pyd",
+    ".env",
+    ".DS_Store",
+    "Thumbs.db",
+    "*.pdf",
+    "data/config.py"
+  ],
+  "context": {
+    "max_files": 30,
+    "max_tokens": 100000,
+    "include_patterns": [
+      "*.md",
+      "*.py",
+      "*.json",
+      "*.csv",
+      "*.yml",
+      "*.yaml"
+    ],
+    "exclude_patterns": [
+      "*.log",
+      "*.tmp",
+      "*.cache",
+      "*.pdf",
+      "RAW/**",
+      ".venv/**",
+      "__pycache__/**"
+    ]
+  },
+  "rules_priority": {
+    "data_privacy.md": "critical",
+    "system_behavior.md": "highest",
+    "tax_processing_workflow.md": "high",
+    "code_standards.md": "high",
+    "documentation_standards.md": "medium"
+  },
+  "auto_load": true,
+  "version": "1.0.0",
+  "description": "Personal Tax Assistant - Cursor AI Rules Configuration",
+  "project_type": "financial_analysis",
+  "security_level": "high"
+}

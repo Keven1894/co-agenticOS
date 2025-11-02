@@ -1,0 +1,42 @@
+{
+  "rules": [
+    "rules/*.md"
+  ],
+  "ignore": [
+    ".git/",
+    "node_modules/",
+    "__pycache__/",
+    "*.pyc",
+    "*.pyo",
+    "*.pyd",
+    ".DS_Store",
+    "Thumbs.db",
+    ".vscode/",
+    ".idea/"
+  ],
+  "context": {
+    "max_files": 50,
+    "max_tokens": 100000,
+    "include_patterns": [
+      "*.md",
+      "*.json",
+      "*.yaml",
+      "*.yml"
+    ],
+    "exclude_patterns": [
+      "*.log",
+      "*.tmp",
+      "*.cache"
+    ]
+  },
+  "rules_priority": {
+    "system_behavior.md": "highest",
+    "language_standards.md": "critical",
+    "content_standards.md": "high",
+    "rule_development_workflow.md": "high",
+    "contribution_workflow.md": "high"
+  },
+  "auto_load": true,
+  "version": "1.0.0",
+  "description": "co-agenticOS - Framework Documentation & Rule Development Project"
+}
