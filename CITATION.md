@@ -7,15 +7,66 @@
 **License**: MIT License  
 **Year**: 2025
 
+> **Part of the Agentic-AI Engineering Framework**  
+> When citing co-agenticOS, please also cite the parent framework:  
+> **Framework DOI**: [10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004)
+
 ---
 
-## 📚 Citation Formats
+## 🔗 Citing the Parent Framework
+
+co-agenticOS implements the runtime layer of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap). When using co-agenticOS in academic work, **cite both** the framework and this implementation:
+
+### Framework Citation (Required)
+
+**APA**:
+```
+Guan, B. K. (2025). Agentic-AI Engineering: A Structured Framework for Context Management, 
+    Documentation Standards, and Intelligent Retrieval in LLM-Powered Systems (Version 1.0.0). 
+    Zenodo. https://doi.org/10.5281/zenodo.14279004
+```
+
+**BibTeX**:
+```bibtex
+@software{guan2025agenticai,
+  author       = {Guan, Boyuan Keven},
+  title        = {{Agentic-AI Engineering: A Structured Framework for Context Management, 
+                   Documentation Standards, and Intelligent Retrieval in LLM-Powered Systems}},
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.14279004},
+  url          = {https://doi.org/10.5281/zenodo.14279004}
+}
+```
+
+---
+
+## 📚 Citation Formats for co-agenticOS
+
+### Combined Citation (Recommended)
+
+When citing co-agenticOS, cite both the parent framework and this implementation:
+
+**APA Style**:
+```
+Guan, B. K. (2025). Agentic-AI Engineering: A Structured Framework for Context Management, 
+    Documentation Standards, and Intelligent Retrieval in LLM-Powered Systems (Version 1.0.0). 
+    Zenodo. https://doi.org/10.5281/zenodo.14279004
+
+Guan, B. K. (2025). co-agenticOS: The Culture of AI-Involved Software Engineering 
+    (Version 1.0.0) [Software framework]. GitHub. 
+    https://github.com/Keven1894/co-agenticOS
+```
+
+### co-agenticOS Only (If focusing on implementation)
 
 ### APA (7th Edition)
 ```
 Guan, B. K. (2025). co-agenticOS: The Culture of AI-Involved Software Engineering 
-    (Version 1.0.0) [Software framework]. GitHub. 
-    https://github.com/Keven1894/co-agenticOS
+    (Version 1.0.0) [Software framework]. Implementation of Agentic-AI Engineering Framework. 
+    GitHub. https://github.com/Keven1894/co-agenticOS
 ```
 
 ### IEEE

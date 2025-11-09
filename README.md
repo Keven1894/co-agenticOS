@@ -1,11 +1,39 @@
 # co-agenticOS  
 ### The Culture of AI-Involved Software Engineering  
 
+[![Part of Agentic-AI Ecosystem](https://img.shields.io/badge/Ecosystem-Agentic--AI-blue)](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14279004-blue)](https://doi.org/10.5281/zenodo.14279004)
+[![Framework](https://img.shields.io/badge/Framework-Research--Roadmap-green)](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)
+
+> **Part of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)**  
+> This repository implements the **runtime and behavioral rule system** proposed in the Agentic-AI Engineering Framework.  
+> **Framework DOI**: [10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004)
+
+---
+
 **co-agenticOS** is a living operating system for human–AI collaboration in software development.  
 It defines the culture, workflows, and shared rituals that allow engineers and agents to co-create, iterate, and document software continuously.
 
 > *"Culture is the new compiler."*  
 > — co-agenticOS Manifesto
+
+---
+
+## 🔗 Relationship to Agentic-AI Framework
+
+co-agenticOS serves as the **execution and governance layer** of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap):
+
+| Layer | Repository | Role |
+|-------|-----------|------|
+| **Theory & Methodology** | [Agentic-AI Research Roadmap](https://github.com/Keven1894/Agentic-AI-Research-Roadmap) | Defines *what* agents should do and *how* they learn |
+| **Execution & Governance** | **co-agenticOS** (this repo) | Implements *how* agents behave and cooperate at runtime |
+
+**Framework Citation**:
+```
+Guan, B. K. (2025). Agentic-AI Engineering: A Structured Framework for Context Management, 
+    Documentation Standards, and Intelligent Retrieval in LLM-Powered Systems (Version 1.0.0). 
+    Zenodo. https://doi.org/10.5281/zenodo.14279004
+```
 
 ---
 
@@ -266,6 +294,12 @@ Guan, B. K. (2025). co-agenticOS: The Culture of AI-Involved Software Engineerin
 
 ## 🌐 Learn More
 
+### Parent Framework
+- [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap) - Theoretical foundation and methodology
+- [Framework DOI: 10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004) - Permanent academic reference
+- [Ecosystem Integration Guide](docs/ecosystem-integration.md) - How co-agenticOS fits into the broader framework
+
+### co-agenticOS Documentation
 - [Core Manifesto](core/manifesto/00-principles.md) - Cultural foundation and principles
 - [GIS Platform Example](domains/research-engineering/examples/Agent-dev-GIS-Research/) - Research engineering reference
 - [Tax Assistant Example](domains/financial-analysis/examples/Personal-Tax-Assistant/) - Financial analysis reference  

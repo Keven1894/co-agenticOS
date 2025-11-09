@@ -9,9 +9,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Personal Tax Assistant example in financial analysis domain
-- Financial analysis domain abstract and tax processing rules
-- Comprehensive .cursor/ rules for co-agenticOS project itself
+- **Ecosystem Integration**: Full integration with Agentic-AI Engineering Framework
+  - Framework DOI badges and references (10.5281/zenodo.14279004)
+  - Ecosystem Integration Guide (docs/ecosystem-integration.md)
+  - Relationship documentation in all major files
+  - Coordinated development roadmap with parent framework
+- **Citation Enhancements**: 
+  - Updated CITATION.md with parent framework references
+  - Combined citation guidelines for academic use
+  - BibTeX entries for both framework and implementation
+- **Documentation Updates**:
+  - Added ecosystem position to README.md
+  - Added ecosystem badges (DOI, Framework link)
+  - Updated PROJECT_STRUCTURE.md with ecosystem context
+  - Updated docs/project-evolution.md with framework relationship
+  - Updated docs/roadmap.md with coordinated timeline
+
+### Changed
+- README.md: Added ecosystem badges and relationship section
+- CITATION.md: Restructured to include parent framework citation
+- PROJECT_STRUCTURE.md: Added ecosystem positioning
+- docs/project-evolution.md: Added framework relationship context
+- docs/roadmap.md: Aligned with parent framework timeline
 
 ## [1.0.0] - 2025-11-02
 

@@ -1,9 +1,25 @@
 # co-agenticOS Roadmap
 ### Future Vision and Development Plans
 
-**Last Updated:** November 2, 2025  
+**Last Updated:** November 9, 2025  
 **Current Version:** 1.0.0  
 **Maintained by:** Boyuan (Keven) Guan
+
+> **Part of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)**  
+> **Framework DOI**: [10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004)
+
+---
+
+## 🔗 Coordination with Parent Framework
+
+This roadmap is coordinated with the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap) development timeline:
+
+| Timeline | Framework (Theory) | co-agenticOS (Implementation) |
+|----------|-------------------|------------------------------|
+| **2025 Q4** | ✅ Zenodo Release (DOI) | ✅ Foundation Complete |
+| **2026 Q1-Q2** | Workshop Paper | Domain Expansion |
+| **2026 Q3-Q4** | Journal Paper | Implementation Paper |
+| **2027+** | Book & Academic Integration | Global Ecosystem |
 
 ---
 

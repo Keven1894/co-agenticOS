@@ -3,7 +3,18 @@
 **Created by:** Boyuan (Keven) Guan  
 **Contact:** keven1894@gmail.com | [LinkedIn](https://www.linkedin.com/in/boyuan-keven-guan/)
 
+> **Part of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)**  
+> **Framework DOI**: [10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004)
+
 This document provides an overview of the co-agenticOS **Rule & Template Framework** structure.
+
+## 🔗 Position in Agentic-AI Ecosystem
+
+co-agenticOS implements the **execution and governance layer** of the Agentic-AI Engineering Framework:
+
+- **Parent Framework**: Defines theoretical methodology (Context → Documentation → Indexing → RAG → Fine-tuning)
+- **co-agenticOS**: Implements runtime behavior, agent coordination, and cultural practices
+- **Domain Applications**: Real-world implementations combining both framework and OS
 
 ## 🏗️ Core Four-Layer Architecture
 

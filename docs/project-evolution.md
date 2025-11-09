@@ -5,6 +5,20 @@
 **Started:** November 2, 2025  
 **Status:** Active Development
 
+> **Part of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap)**  
+> **Framework DOI**: [10.5281/zenodo.14279004](https://doi.org/10.5281/zenodo.14279004)
+
+---
+
+## 🔗 Relationship to Agentic-AI Engineering Framework
+
+co-agenticOS is the **execution and governance layer** of the broader [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap). While the parent framework defines the theoretical foundations and methodology for building Agentic-AI systems, co-agenticOS implements the practical runtime rules and cultural practices.
+
+**Position in the Ecosystem**:
+- **Agentic-AI Framework** (Theory) → Defines methodology for Context, Documentation, Indexing, RAG, Fine-tuning
+- **co-agenticOS** (Execution) → Implements runtime behavior, agent coordination, and cultural practices
+- **Domain Applications** (Practice) → Real-world implementations using both framework and OS
+
 ---
 
 ## 🌱 Origin Story
