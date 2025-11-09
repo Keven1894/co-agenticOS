@@ -156,20 +156,21 @@ Before committing any content:
 ## 📚 Additional Resources
 
 ### Framework Documentation
-- **Main README** - `../README.md`
-- **Project Structure** - `../PROJECT_STRUCTURE.md`
-- **Contributing Guide** - `../CONTRIBUTING.md`
-- **Author Info** - `../AUTHOR.md`
+- **Main README** - `../../README.md`
+- **Project Structure** - `../../docs/PROJECT_STRUCTURE.md`
+- **Contributing Guide** - `../../CONTRIBUTING.md`
+- **Author Info** - `../../AUTHOR.md`
 
 ### Templates
-- **Rule Template** - `../templates/rule-template.md`
-- **Plan Template** - `../templates/PLAN.md`
-- **ADR Template** - `../templates/ADR.md`
-- **Summary Template** - `../templates/Summary.md`
+- **Rule Template** - `../../templates/rule-template.md`
+- **Plan Template** - `../../templates/PLAN.md`
+- **ADR Template** - `../../templates/ADR.md`
+- **Summary Template** - `../../templates/Summary.md`
 
 ### Reference Implementation
-- **GIS Platform** - `../domains/research-engineering/examples/Agent-dev-GIS-Research/`
-- **Cross-Domain Example** - `../examples/cross-domain-workflow-integration.md`
+- **GIS Platform** - `../../domains/research-engineering/examples/Agent-dev-GIS-Research/`
+- **Tax Assistant** - `../../domains/financial-analysis/examples/Personal-Tax-Assistant/`
+- **Cross-Domain Example** - `../../examples/cross-domain-workflow-integration.md`
 
 ## 🔄 Rule Updates
 

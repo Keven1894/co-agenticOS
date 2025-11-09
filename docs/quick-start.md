@@ -252,7 +252,7 @@ Review this code using the core rules and suggest improvements for:
 
 ### Documentation
 - **README.md**: Project overview and features
-- **PROJECT_STRUCTURE.md**: Detailed structure explanation
+- **docs/PROJECT_STRUCTURE.md**: Detailed structure explanation
 - **CONTRIBUTING.md**: Contribution guidelines
 - **docs/**: Comprehensive documentation
 

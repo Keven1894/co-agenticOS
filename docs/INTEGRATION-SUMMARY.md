@@ -63,7 +63,7 @@ This update establishes **co-agenticOS** as the official **execution and governa
 
 ---
 
-### 4. **PROJECT_STRUCTURE.md** - Context Added
+### 4. **docs/PROJECT_STRUCTURE.md** - Context Added
 
 **Added**:
 - ✅ Framework DOI reference at top
@@ -115,7 +115,7 @@ This update establishes **co-agenticOS** as the official **execution and governa
 | `README.md` | Major Update | High - First impression |
 | `CITATION.md` | Major Update | High - Academic use |
 | `docs/ecosystem-integration.md` | New File | High - Comprehensive guide |
-| `PROJECT_STRUCTURE.md` | Minor Update | Medium - Context addition |
+| `docs/PROJECT_STRUCTURE.md` | Minor Update | Medium - Context addition |
 | `docs/project-evolution.md` | Minor Update | Medium - Historical context |
 | `docs/roadmap.md` | Minor Update | Medium - Timeline alignment |
 | `CHANGELOG.md` | Minor Update | Low - Documentation |
@@ -228,7 +228,7 @@ New files:
 Updated files:
 - README.md (major)
 - CITATION.md (major)
-- PROJECT_STRUCTURE.md (minor)
+- docs/PROJECT_STRUCTURE.md (minor)
 - docs/project-evolution.md (minor)
 - docs/roadmap.md (minor)
 - CHANGELOG.md (documentation)
