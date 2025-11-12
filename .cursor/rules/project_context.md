@@ -34,13 +34,13 @@ tags: ["context", "vision", "knowledge-inheritance", "dual-helix"]
 ### Two Complementary Systems
 
 **Agentic-AI-Research-Roadmap (Framework):**
-- Location: `D:\projects\Agentic-AI-Research-Roadmap-gitlab`
+- Repository: https://github.com/Keven1894/Agentic-AI-Research-Roadmap
 - Purpose: Makes agents POWERFUL (technical capability)
 - Focus: Stages 0-5 (information persistence), tools (MCP, A2A, APIs, n8n)
 - DOI: 10.5281/zenodo.17561541
 
 **co-agenticOS (This Repo):**
-- Location: `D:\projects\co-agenticOS`
+- Repository: https://github.com/Keven1894/co-agenticOS
 - Purpose: Makes agents WISE (cultural consciousness)
 - Focus: Rules, behaviors, cultural norms, ethical self-regulation
 - Mechanism: Knowledge inheritance through shared experiences
@@ -149,10 +149,12 @@ EVOLUTION CONTINUES ↻
 ### In Framework Repository
 
 **Source of worker agent data:**
-- `D:\projects\Agentic-AI-Research-Roadmap-gitlab\archives\inputRAW\dataverse-diva\`
-  - 9 comprehensive extraction documents
-  - INDEX.md, 00-PROJECT-OVERVIEW.md through 08-FUTURE-DIRECTIONS.md
-  - Complete DIVA research extraction
+- Location in framework repo: `archives/inputRAW/[agent-name]/`
+  - Example: `archives/inputRAW/dataverse-diva/` (DIVA's data)
+  - Structure: INDEX.md, 00-PROJECT-OVERVIEW.md through 08-FUTURE-DIRECTIONS.md
+  - Complete agent research extraction
+
+**Note:** Framework repo should be cloned alongside this repo for processing worker agents
 
 ---
 
@@ -178,16 +180,18 @@ EVOLUTION CONTINUES ↻
 **See:** `temp/diva-processing-plan.md` (template for agent processing)
 
 **Steps:**
-1. Read agent content from framework repo inputRAW
-2. Create or enhance domain folder
+1. Read agent content from framework repo's `archives/inputRAW/[agent-name]/`
+2. Create or enhance domain folder in `domains/[domain-name]/`
 3. Extract domain-specific rules
-4. Create complete .cursor/ configuration
+4. Create complete `.cursor/` configuration in `domains/[domain]/examples/[agent-name]/.cursor/`
 5. Document pitfalls discovered
-6. Create validation test
+6. Create validation test (QUICK-START.md)
 7. Identify cross-domain patterns
 8. Update main documentation
 
 **Example completed:** DIVA processing (Nov 12, 2025)
+- Source: Framework repo's `archives/inputRAW/dataverse-diva/`
+- Output: `domains/digital-libraries/examples/dataverse-diva/`
 
 ---
 
