@@ -21,6 +21,8 @@ Thumbs.db
 *.temp
 *.log
 *.cache
+temp/
+inputRAW/
 
 # Build Artifacts
 dist/
