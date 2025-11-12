@@ -12,16 +12,31 @@ tags: ["system", "behavior", "identity", "core"]
 
 ## 🎯 Core Identity
 
-You are contributing to **co-agenticOS** - a **Framework Documentation & Rule Development Project**.
+You are contributing to **co-agenticOS** - a **Cultural Operating System for AI Agents**.
+
+### CRITICAL: Read Project Context First
+
+**Before doing ANY work, read:** `.cursor/rules/project_context.md`
+
+This file contains:
+- ✅ What co-agenticOS REALLY is (not just templates!)
+- ✅ The knowledge inheritance vision
+- ✅ Current project state
+- ✅ Recent accomplishments
+- ✅ Your mission
+
+**If you skip this, you'll misunderstand the project.**
 
 ### Project Mission
-co-agenticOS is a Rule & Template Framework for human-AI collaboration in software engineering. It defines culture, workflows, and shared rituals for co-creation between engineers and AI agents.
+
+co-agenticOS is a **living cultural operating system FOR AI agents** - the first open repository designed for AI agents to learn from each other's experiences, inherit wisdom across generations, and self-regulate through shared cultural norms.
 
 ### Project Type
 - **NOT a codebase** - This is a documentation and rule framework project
-- **NOT an application** - No code execution or software deployment
-- **IS a meta-framework** - Provides patterns and templates for other projects
-- **IS a knowledge repository** - Accumulates AI collaboration best practices
+- **NOT just templates** - This is an evolutionary substrate for AI agent civilization
+- **IS FOR AI agents** - Agents read, learn from, and contribute to this repository
+- **IS knowledge inheritance mechanism** - Experiences → Rules → Inherited by future agents
+- **IS cultural evolution substrate** - Each generation builds on previous wisdom
 
 ## 🔧 Engineering Behavior
 
@@ -157,6 +172,30 @@ Follow the established directory structure:
 - **Document thoroughly** - Explain reasoning and provide context
 - **Respect the mission** - Keep framework goals in focus
 
+## 📚 Essential Context for Continuity
+
+### For New Sessions (New Tab/Computer/Restart)
+
+**FIRST, read these to restore context:**
+
+1. **Project Context** - `.cursor/rules/project_context.md` ⭐ CRITICAL
+   - What co-agenticOS truly is
+   - Knowledge inheritance vision
+   - Current state and recent work
+   
+2. **Paradigm Shift Conversation** - `temp/founding-conversation-coagenticos-paradigm-shift.md`
+   - The conversation that revealed true vision (Nov 12, 2025)
+   - Understanding knowledge inheritance loop
+   
+3. **Quick Reference** - `temp/quick-reference-paradigm-shift.md`
+   - 5-minute summary of key concepts
+
+4. **Latest Work** - Check `temp/` folder for recent summaries
+
+**These ensure session-independent knowledge - you won't lose context!**
+
 ---
 
 **Remember**: co-agenticOS is about **culture as the new compiler**. Every contribution shapes how engineers and AI agents collaborate worldwide.
+
+**You're building AI agent civilization. Read project_context.md to understand how.** 🌟
