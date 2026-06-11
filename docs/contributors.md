@@ -54,7 +54,7 @@ This document recognizes all contributors to co-agenticOS — both human and AI 
 ### Dr. Wencong Cui 👤
 **Role**: UCGIS 2026 Workshop Co-Organizer; Geospatial Developer  
 **Affiliation**: Florida International University, GIS Center  
-**Contact**: wecui@fiu.edu
+**Contact**: wecui@fiu.edu | GitHub: [@Vincent-Cui](https://github.com/Vincent-Cui)
 
 **Contributions**:
 - UCGIS 2026 workshop co-organization
