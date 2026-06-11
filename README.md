@@ -19,14 +19,23 @@ It defines the culture, workflows, and shared rituals that allow engineers and a
 
 ---
 
-## 🔗 Relationship to Agentic-AI Framework
+## 🔗 Relationship to the AgentLoom Family
 
-co-agenticOS serves as the **execution and governance layer** of the [Agentic-AI Engineering Framework](https://github.com/Keven1894/Agentic-AI-Research-Roadmap):
+Four repos, four roles — split by *what they are* and by *agent lifecycle phase*:
 
-| Layer | Repository | Role |
-|-------|-----------|------|
-| **Theory & Methodology** | [Agentic-AI Research Roadmap](https://github.com/Keven1894/Agentic-AI-Research-Roadmap) | Defines *what* agents should do and *how* they learn |
-| **Execution & Governance** | **co-agenticOS** (this repo) | Implements *how* agents behave and cooperate at runtime |
+| Repo | Role | Lifecycle phase |
+|------|------|-----------------|
+| **co-agenticOS** (this repo) | Governance **spec** — rules, coordination, memory boundaries, verification | sets the rules |
+| [**AgentLoom**](https://github.com/Keven1894/AgentLoom) | Build **framework** — KG governance, validators, propose-review-accept | **authoring time** (build & govern the agent) |
+| **AgentLoom Runtime** | Runtime **library** — layered memory, graph-first retrieval, file→DB sync | **run time** (the deployed agent remembers & retrieves) |
+| [**ucgis-agentloom-2026-workshop**](https://github.com/Keven1894/ucgis-agentloom-2026-workshop) | A concrete **instance** — a worked, forkable example | a use of all of the above |
+
+> co-agenticOS sets the rules → AgentLoom is the framework you build and govern
+> an agent with (authoring time) → AgentLoom Runtime is the library the deployed
+> agent uses to remember and retrieve (run time) → the workshop repo is one
+> concrete instance that puts all of them to work.
+
+Theory and methodology lineage: [Agentic-AI Research Roadmap](https://github.com/Keven1894/Agentic-AI-Research-Roadmap).
 
 **Framework Citation**:
 ```
