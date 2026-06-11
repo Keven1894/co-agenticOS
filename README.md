@@ -27,7 +27,7 @@ Four repos, four roles — split by *what they are* and by *agent lifecycle phas
 |------|------|-----------------|
 | **co-agenticOS** (this repo) | Governance **spec** — rules, coordination, memory boundaries, verification | sets the rules |
 | [**AgentLoom**](https://github.com/Keven1894/AgentLoom) | Build **framework** — KG governance, validators, propose-review-accept | **authoring time** (build & govern the agent) |
-| **AgentLoom Runtime** | Runtime **library** — layered memory, graph-first retrieval, file→DB sync | **run time** (the deployed agent remembers & retrieves) |
+| [**AgentLoom Runtime**](https://github.com/Keven1894/agentloom-runtime) | Runtime **library** — layered memory, graph-first retrieval, file→DB sync | **run time** (the deployed agent remembers & retrieves) |
 | [**ucgis-agentloom-2026-workshop**](https://github.com/Keven1894/ucgis-agentloom-2026-workshop) | A concrete **instance** — a worked, forkable example | a use of all of the above |
 
 > co-agenticOS sets the rules → AgentLoom is the framework you build and govern
@@ -37,7 +37,32 @@ Four repos, four roles — split by *what they are* and by *agent lifecycle phas
 
 Theory and methodology lineage: [Agentic-AI Research Roadmap](https://github.com/Keven1894/Agentic-AI-Research-Roadmap).
 
+---
+
+## How to consume this repo
+
+**There is no `pip install co-agenticOS`.** This repository is a **governance spec +
+template library**, not runnable application code. To use it:
+
+1. **Read** the manifesto and core docs under `core/` and `docs/` to understand the
+   culture, coordination rules, and memory boundaries.
+2. **Copy** templates from `templates/` into your own project (rules, behaviors,
+   domain folders) and adapt them to your team.
+3. **Build** your executable agent with [AgentLoom](https://github.com/Keven1894/AgentLoom)
+   (authoring-time KG governance) and deploy with
+   [agentloom-runtime](https://github.com/Keven1894/agentloom-runtime) when you need
+   production memory and retrieval.
+4. **Study** a worked instance in the
+   [UCGIS 2026 workshop repo](https://github.com/Keven1894/ucgis-agentloom-2026-workshop)
+   if you want a forkable geospatial example.
+
+If you expected an importable Python package, use **AgentLoom** or **agentloom-runtime**
+instead — co-agenticOS sets the *rules culture* those tools implement.
+
+---
+
 **Framework Citation**:
+
 ```
 Guan, B. K. (2025). Agentic-AI Engineering: A Structured Framework for Context Management, 
     Documentation Standards, and Intelligent Retrieval in LLM-Powered Systems (Version 1.0.0). 

@@ -44,7 +44,7 @@ This document recognizes all contributors to co-agenticOS — both human and AI 
 **Role**: UCGIS 2026 Workshop Co-Organizer; Geospatial Governance Collaborator  
 **Affiliation**: University of Florida — GATOR Lab  
 **Title**: Assistant Professor of Geospatial Analytics | Director of GATOR Lab  
-**Contact**: levente.juhasz@ufl.edu
+**Contact**: levente.juhasz@ufl.edu | GitHub: [@jlevente](https://github.com/jlevente)
 
 **Contributions**:
 - UCGIS 2026 workshop co-organization (*From Prompts to Protocols*)
