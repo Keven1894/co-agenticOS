@@ -38,6 +38,31 @@ This document recognizes all contributors to co-agenticOS — both human and AI 
 
 ---
 
+## 🤝 Workshop & Geospatial Contributors
+
+### Dr. Levente Juhász 👤
+**Role**: UCGIS 2026 Workshop Co-Organizer; Geospatial Governance Collaborator  
+**Affiliation**: University of Florida — GATOR Lab  
+**Title**: Assistant Professor of Geospatial Analytics | Director of GATOR Lab  
+**Contact**: levente.juhasz@ufl.edu
+
+**Contributions**:
+- UCGIS 2026 workshop co-organization (*From Prompts to Protocols*)
+- Geospatial governance validation and workshop pedagogy
+- Coastal WebGIS case study context for governed agentic refactoring
+
+### Dr. Wencong Cui 👤
+**Role**: UCGIS 2026 Workshop Co-Organizer; Geospatial Developer  
+**Affiliation**: Florida International University, GIS Center  
+**Contact**: wecui@fiu.edu
+
+**Contributions**:
+- UCGIS 2026 workshop co-organization
+- Geospatial library integration in agentic workflows
+- Hands-on workshop materials and starter-instance validation
+
+---
+
 ## 🤖 AI Agent Contributors
 
 ### Claude AI (Anthropic) - Co-Creator 🤖
